@@ -1,0 +1,14 @@
+{
+  "name": "sqlite-shortcut",
+  "version": "1.0.0",
+  "description": "This package allows users to use SQLite-storage with just a simple function",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sqlite-shortcut"
+  ],
+  "author": "sarveshhh_m",
+  "license": "ISC"
+}
